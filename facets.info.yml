@@ -1,6 +1,6 @@
 name: 'Facets'
 type: module
-description: 'Super Faceted search interfaces that can be used on Search API searchers.'
+description: 'Superduper Faceted search interfaces that can be used on Search API searchers.'
 core: 8.x
 package: Search
 configure: facets.overview
